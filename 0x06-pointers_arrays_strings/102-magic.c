@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+/**
+ * type your main function name
+ * description: type your main function
+ * return: 0
+ */
+
 int main(void)
 {
 	int n;
